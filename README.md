@@ -37,3 +37,4 @@ This is the 3 tier kanban app
 
 ![Screenshot from 2024-03-22 15-59-07](https://github.com/Farhan-Ahmed-Netsmartz/kanban_app/assets/160687843/3984568e-87e9-4f72-ab5b-75262200bd2f)
 
+For more got to its original repo: https://github.com/wkrzywiec/kanban-board.git
