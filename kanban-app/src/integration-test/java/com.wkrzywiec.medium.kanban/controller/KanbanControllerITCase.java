@@ -39,7 +39,7 @@ public class KanbanControllerITCase extends CommonITCase {
 
     @Before
     public void setUp(){
-        baseURL = "http://localhost:" + port;
+        baseURL = "http://${IP_ADDRESS}:" + port;
     }
 
     @Test
